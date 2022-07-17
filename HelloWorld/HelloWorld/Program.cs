@@ -269,7 +269,7 @@
             //while loops
             Console.WriteLine("WHILE LOOPS"); 
             int iCounter = 0;
-            while (iCounter < 8) //Do the loop untill the condition is reached
+            while (iCounter < 9) //Do the loop untill the condition is reached
             {
                 Console.WriteLine("Your number is: " + iCounter);
                 iCounter++;
